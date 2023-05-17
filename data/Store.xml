@@ -1,0 +1,133 @@
+<list>
+  <com.fmt.Store>
+    <storeCode>89ytr5</storeCode>
+    <manager>
+      <personCode>56p65s</personCode>
+      <firstName>Andrews</firstName>
+      <lastName>Michelle</lastName>
+      <address>
+        <street>3602 Coke Ranch RD</street>
+        <city>Alexander City</city>
+        <state>AL</state>
+        <zip>35010</zip>
+        <country>US</country>
+      </address>
+      <emails>
+        <string>amichelle@sbwire.com</string>
+        <string>michelleandrews@vistaprint.com</string>
+      </emails>
+    </manager>
+    <address>
+      <street>14382 Meadows PKWY</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68138</zip>
+      <country>US</country>
+    </address>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>9jk658</storeCode>
+    <manager>
+      <personCode>d67cd5</personCode>
+      <firstName>Witt</firstName>
+      <lastName>Leonald</lastName>
+      <address>
+        <street>755 Forest Ave</street>
+        <city>Bronx</city>
+        <state>NY</state>
+        <zip>10456</zip>
+        <country>US</country>
+      </address>
+      <emails>
+        <string>wleavold2@npr.org</string>
+        <string>wleavold2@craigslist.org</string>
+      </emails>
+    </manager>
+    <address>
+      <street>180 Magdeline Plaza</street>
+      <city>Wichita</city>
+      <state>KS</state>
+      <zip>67230</zip>
+      <country>US</country>
+    </address>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>677v4d</storeCode>
+    <manager>
+      <personCode>98c89d</personCode>
+      <firstName>Kumar</firstName>
+      <lastName>Ram</lastName>
+      <address>
+        <street>1755 Q Street</street>
+        <city>Lincoln</city>
+        <state>NE</state>
+        <zip>68508</zip>
+        <country>US</country>
+      </address>
+      <emails>
+        <string>kumarram@gmail.com</string>
+        <string>ramkumar4@yahoo.com</string>
+      </emails>
+    </manager>
+    <address>
+      <street>600 Norris Ave</street>
+      <city>MC Cook</city>
+      <state>NE</state>
+      <zip>69001</zip>
+      <country>US</country>
+    </address>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>98c76q</storeCode>
+    <manager>
+      <personCode>pqr87s</personCode>
+      <firstName>Hussain</firstName>
+      <lastName>Zara</lastName>
+      <address>
+        <street>400 N 8TH St</street>
+        <city>Worland</city>
+        <state>WY</state>
+        <zip>82401</zip>
+        <country>US</country>
+      </address>
+      <emails>
+        <string>zhussain3@engadget.com</string>
+        <string>hussainzara3@wisc.edu</string>
+        <string>zhussain93@google.es</string>
+      </emails>
+    </manager>
+    <address>
+      <street>2701 S 49TH ST</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68106</zip>
+      <country>US</country>
+    </address>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>bh7665</storeCode>
+    <manager>
+      <personCode>a67bd3</personCode>
+      <firstName>Jonah</firstName>
+      <lastName>Fransisco</lastName>
+      <address>
+        <street>300 Sunset Ave</street>
+        <city>Thermopolis</city>
+        <state>WY</state>
+        <zip>82443</zip>
+        <country>US</country>
+      </address>
+      <emails>
+        <string>jonahf4@elpais.com</string>
+        <string>fjonah4@unblog.fr</string>
+      </emails>
+    </manager>
+    <address>
+      <street>1810 E ST</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68508</zip>
+      <country>US</country>
+    </address>
+  </com.fmt.Store>
+</list>

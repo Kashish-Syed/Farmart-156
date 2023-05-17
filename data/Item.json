@@ -1,0 +1,107 @@
+[
+  {
+    "model": "JCB 3CX",
+    "code": "35f6f5",
+    "type": "E",
+    "name": "Backhoe"
+  },
+  {
+    "hourlyRate": 1500.0,
+    "numberOfHours": 0.0,
+    "code": "9t87b4s",
+    "type": "S",
+    "name": "Weed removal"
+  },
+  {
+    "unit": "lft",
+    "pricePerUnit": 6.0,
+    "quantity": 0.0,
+    "code": "94kl4m",
+    "type": "P",
+    "name": "Panel fence"
+  },
+  {
+    "unit": "ton",
+    "pricePerUnit": 800.0,
+    "quantity": 0.0,
+    "code": "n54b7s",
+    "type": "P",
+    "name": "Slit soil"
+  },
+  {
+    "model": "Case 8240",
+    "code": "13d423",
+    "type": "E",
+    "name": "Harvester"
+  },
+  {
+    "model": "John Deere 6155M",
+    "code": "14c3dt",
+    "type": "E",
+    "name": "Tractor"
+  },
+  {
+    "model": "Dodged Ram 1500",
+    "code": "34t54d",
+    "type": "E",
+    "name": "Truck"
+  },
+  {
+    "hourlyRate": 5000.0,
+    "numberOfHours": 0.0,
+    "code": "21n23bc",
+    "type": "S",
+    "name": "Veterinary service"
+  },
+  {
+    "unit": "bale",
+    "pricePerUnit": 500.0,
+    "quantity": 0.0,
+    "code": "36a56b",
+    "type": "P",
+    "name": "Haybale"
+  },
+  {
+    "model": "Anderson 5909HS ",
+    "code": "156p5d",
+    "type": "E",
+    "name": "Baler"
+  },
+  {
+    "hourlyRate": 200.0,
+    "numberOfHours": 0.0,
+    "code": "54nm34t",
+    "type": "S",
+    "name": "Seeding"
+  },
+  {
+    "hourlyRate": 1000.0,
+    "numberOfHours": 0.0,
+    "code": "345d8fc",
+    "type": "S",
+    "name": "Parts repair"
+  },
+  {
+    "unit": "bag",
+    "pricePerUnit": 50.0,
+    "quantity": 0.0,
+    "code": "24c65d",
+    "type": "P",
+    "name": "Soybean seed"
+  },
+  {
+    "hourlyRate": 50.3,
+    "numberOfHours": 0.0,
+    "code": "21n23dt",
+    "type": "S",
+    "name": "Tractor Driving Lessons"
+  },
+  {
+    "unit": "bag",
+    "pricePerUnit": 100.0,
+    "quantity": 0.0,
+    "code": "p67a76",
+    "type": "P",
+    "name": "Manure"
+  }
+]

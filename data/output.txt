@@ -1,0 +1,111 @@
++----------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                              |
++----------------------------------------------------------------------------------------+
+Invoice #  Store      Customer                       Num Items          Tax       Total
+INV001	   89ytr5     Michelle, Andrews              2          $    160.88 $  82410.88
+INV002     677v4d     Hussain, Zara                  1          $    439.88 $  13189.88
+INV003     98c76q     Hussain, Zara                  1          $       500 $  12900.00
+INV004     9jk658     Weston, Daniel                 0          $      0.00 $      0.00
++----------------------------------------------------------------------------------------+
+                                                     4          $   1100.76 $ 108500.76 
+
++----------------------------------------------------------------+
+| Store Sales Summary Report                                     |
++----------------------------------------------------------------+
+Store      Manager                        # Sales    Grand Total 
+bh7665     Jonah, Fransisco               0          $      0.00 
+9jk658     Witt, Leonald                  0          $      0.00
+89ytr5     Andrews, Michelle              2          $  82410.88  
+677v4d     Kumar, Ram                     1          $  13189.88
+98c76q     Hussain, Zara                  1          $  12900.00
++----------------------------------------------------------------+
+                                          4          $ 108500.76
+
+Invoice  #INV001
+Store    #89ytr5
+Date      2022-12-15
+Customer: 
+Michelle, Andrews (56p65s : [amichelle@sbwire.com, michelleandrews@vistaprint.com])
+	3602 Coke Ranch RD
+	Alexander City AL 35010 US
+
+Sales Person: 
+Santosh, Birla (ps45ed : [bsantosh@cam.ac.uk, bsantosh@amazonaws.com, bsantosh@economist.com, bsantosh@sfgate.com])
+	378 Lexington Ave
+	Dorchester Center MA 02124 US
+	
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+14c3dt          (Purchase) Tractor-John Deere 6155M 
+                                                             $  80000.00
+24c65d,         (Product)  Soybean seed 
+	45.0 @ $50.0/bag
+                                                             $   2250.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $  82250.00
+                                                         Tax $    160.88
+                                                 Grand Total $  82410.88
+                                                 
+Invoice  #INV002
+Store    #677v4d
+Date      2022-10-18
+Customer: 
+Zara, Hussain (pqr87s : [zhussain3@engadget.com, hussainzara3@wisc.edu, zhussain93@google.es])
+	400 N 8TH St
+	Worland WY 82401 US
+
+Sales Person: 
+Weston, Daniel (42f7jk : [dweston8@umich.edu, dweston8@pbs.org, dweston8@privacy.gov.au]) 
+ 	293 Clay Ave
+	Oceanside NY 11572 US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+9t87b4s         (Service)             Weed removal 
+	8.5 hours @ $1500.00/hr
+                                                             $  12750.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $  12750.00
+                                                         Tax $    439.88
+                                                 Grand Total $  13189.88
+Invoice  #INV003
+Store    #98c76q
+Date      2023-01-02
+Customer: 
+Zara, Hussain (pqr87s : [zhussain3@engadget.com, hussainzara3@wisc.edu, zhussain93@google.es])
+	400 N 8TH St
+	Worland WY 82401 US
+
+Sales Person: 
+Michelle, Andrews (56p65s : [amichelle@sbwire.com, michelleandrews@vistaprint.com])
+	3602 Coke Ranch RD
+	Alexander City AL 35010 US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+156p5d          (Lease)  Baler Anderson 5909HS 
+	93 days (2022-10-05 -> 2023-01-05) @ $4000.00/ 30 days
+                                                             $  12400.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $  12400.00
+                                                         Tax $    500.00
+                                                 Grand Total $  12900.00
+Invoice  #INV004
+Store    #89ytr5
+Date      2023-02-19
+Customer: 
+Weston, Daniel (42f7jk : [dweston8@umich.edu, dweston8@pbs.org, dweston8@privacy.gov.au])
+	293 Clay Ave,Oceanside
+	NY 11572 US
+
+Sales Person: 
+Ram, Kumar (98c89d : [kumarram@gmail.com, ramkumar4@yahoo.com])
+	1755 Q Street
+	Lincoln NE 68508 US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+                                                             -=-=-=-=-=-
+                                                    Subtotal $      0.00
+                                                         Tax $    	0.00
+                                                 Grand Total $  	0.00

@@ -1,0 +1,107 @@
+<list>
+  <com.fmt.Equipment>
+    <code>35f6f5</code>
+    <type>E</type>
+    <name>Backhoe</name>
+    <model>JCB 3CX</model>
+  </com.fmt.Equipment>
+  <com.fmt.Service>
+    <code>9t87b4s</code>
+    <type>S</type>
+    <name>Weed removal</name>
+    <hourlyRate>1500.0</hourlyRate>
+    <numberOfHours>0.0</numberOfHours>
+  </com.fmt.Service>
+  <com.fmt.Product>
+    <code>94kl4m</code>
+    <type>P</type>
+    <name>Panel fence</name>
+    <unit>lft</unit>
+    <pricePerUnit>6.0</pricePerUnit>
+    <quantity>0.0</quantity>
+  </com.fmt.Product>
+  <com.fmt.Product>
+    <code>n54b7s</code>
+    <type>P</type>
+    <name>Slit soil</name>
+    <unit>ton</unit>
+    <pricePerUnit>800.0</pricePerUnit>
+    <quantity>0.0</quantity>
+  </com.fmt.Product>
+  <com.fmt.Equipment>
+    <code>13d423</code>
+    <type>E</type>
+    <name>Harvester</name>
+    <model>Case 8240</model>
+  </com.fmt.Equipment>
+  <com.fmt.Equipment>
+    <code>14c3dt</code>
+    <type>E</type>
+    <name>Tractor</name>
+    <model>John Deere 6155M</model>
+  </com.fmt.Equipment>
+  <com.fmt.Equipment>
+    <code>34t54d</code>
+    <type>E</type>
+    <name>Truck</name>
+    <model>Dodged Ram 1500</model>
+  </com.fmt.Equipment>
+  <com.fmt.Service>
+    <code>21n23bc</code>
+    <type>S</type>
+    <name>Veterinary service</name>
+    <hourlyRate>5000.0</hourlyRate>
+    <numberOfHours>0.0</numberOfHours>
+  </com.fmt.Service>
+  <com.fmt.Product>
+    <code>36a56b</code>
+    <type>P</type>
+    <name>Haybale</name>
+    <unit>bale</unit>
+    <pricePerUnit>500.0</pricePerUnit>
+    <quantity>0.0</quantity>
+  </com.fmt.Product>
+  <com.fmt.Equipment>
+    <code>156p5d</code>
+    <type>E</type>
+    <name>Baler</name>
+    <model>Anderson 5909HS </model>
+  </com.fmt.Equipment>
+  <com.fmt.Service>
+    <code>54nm34t</code>
+    <type>S</type>
+    <name>Seeding</name>
+    <hourlyRate>200.0</hourlyRate>
+    <numberOfHours>0.0</numberOfHours>
+  </com.fmt.Service>
+  <com.fmt.Service>
+    <code>345d8fc</code>
+    <type>S</type>
+    <name>Parts repair</name>
+    <hourlyRate>1000.0</hourlyRate>
+    <numberOfHours>0.0</numberOfHours>
+  </com.fmt.Service>
+  <com.fmt.Product>
+    <code>24c65d</code>
+    <type>P</type>
+    <name>Soybean seed</name>
+    <unit>bag</unit>
+    <pricePerUnit>50.0</pricePerUnit>
+    <quantity>0.0</quantity>
+  </com.fmt.Product>
+  <com.fmt.Service>
+    <code>21n23dt</code>
+    <type>S</type>
+    <name>Tractor Driving Lessons</name>
+    <hourlyRate>50.3</hourlyRate>
+    <numberOfHours>0.0</numberOfHours>
+  </com.fmt.Service>
+  <com.fmt.Product>
+    <code>p67a76</code>
+    <type>P</type>
+    <name>Manure</name>
+    <unit>bag</unit>
+    <pricePerUnit>100.0</pricePerUnit>
+    <quantity>0.0</quantity>
+  </com.fmt.Product>
+</list>
